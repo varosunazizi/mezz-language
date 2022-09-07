@@ -37,6 +37,8 @@ so if you're not sure if your editor handles this, use "Save As" functionality a
 > https://github.com/NoOneNook (NO)
 >
 > https://github.com/xXSicilyXx (IT)
+>
+> https://github.com/Nykiee (DE)
 
 ## Join Our Discord Community
 https://discord.gg/mrueCjXjeF
